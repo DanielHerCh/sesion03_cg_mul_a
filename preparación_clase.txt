@@ -1,0 +1,12 @@
+Transformaciones 3D
+
+Existen varias transformaciones:
+-Translación: Cuando se cambia de posición un objeto.
+-Escalamiento: Cambia el tamaño de un objeto y al mismo tiempo lo mueve a una nueva posición.
+-Rotación: Se puede rotar en tres los tres ejes.
+-Corte: Corta el objeto en una diagonal.
+
+Para hacer este tipo de transformaciones, existen una matrices que ayudan a saber que coordenadas son las que nuevas
+segun el la translación que se haga.
+
+Referencia: http://galia.fc.uaslp.mx/~medellin/Applets/Trans3D/transformaciones_en_3d.htm
